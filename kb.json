@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "name": "PeriGen Security Questionnaire KB",
+    "version": "1.0.0",
+    "description": "Base knowledge for autofilling security questionnaires and learning new Q→A pairs."
+  },
+
+  "exact_overrides": {},
+
+  "pattern_rules": [
+    {
+      "keywords": ["encryption", "transit", "https", "tls"],
+      "answer": "Yes. Client–server communication uses HTTPS over TLS 1.2+ with customer-provided certificates."
+    },
+    {
+      "keywords": ["at rest", "tde", "data at rest"],
+      "answer": "Customer-managed. SQL Server Transparent Data Encryption (TDE) is fully supported where enabled."
+    },
+    {
+      "keywords": ["ldap", "active directory", "entra", "sso", "federation"],
+      "answer": "Yes. Active Directory LDAP/LDAPS is supported. Entra ID (Azure AD) SSO is supported for HUB when configured."
+    },
+    {
+      "keywords": ["rbac", "role"],
+      "answer": "Yes. Role-Based Access Control (RBAC) is supported and used to restrict privileges."
+    },
+    {
+      "keywords": ["audit", "logging", "siem"],
+      "answer": "Yes. Authentication and access events are logged centrally and can be exported to SIEM solutions."
+    },
+    {
+      "keywords": ["hl7", "interface", "adt", "oru"],
+      "answer": "Yes. HL7 ADT/ORU interfaces are supported via the customer interface engine with optional channel encryption."
+    },
+    {
+      "keywords": ["remote access", "securelink"],
+      "answer": "Vendor support uses SecureLink with named accounts; VPN is not required for standard support."
+    },
+    {
+      "keywords": ["citrix", "vdi", "sccm", "intune"],
+      "answer": "Yes. Client components can run in Citrix/VDI environments. Packaging via SCCM/Intune is supported."
+    },
+    {
+      "keywords": ["sql server", "database", "db owner"],
+      "answer": "Microsoft SQL Server 2019/2022 (customer-managed). Application DBs require db_owner; sysadmin is not required."
+    },
+    {
+      "keywords": ["backup", "dr", "ha", "cluster", "always on"],
+      "answer": "Customer-managed backups. VMware HA/vMotion supported. SQL Always On/Clustering optional based on site policy."
+    },
+    {
+      "keywords": ["phi", "pii", "data center", "cloud", "host"],
+      "answer": "PeriGen does not host PHI/PII. All data remains on customer on-prem servers."
+    },
+    {
+      "keywords": ["mobile", "mdm", "byod", "office 365", "remote wipe"],
+      "answer": "Mobile access is governed by Microsoft 365 MDM policies. Remote wipe/disable is supported. BYOD allowed only with enforced controls. ePHI is never transmitted via SMS."
+    },
+    {
+      "keywords": ["veracode", "sast", "code scan", "secure development", "owasp"],
+      "answer": "Yes. Static application security testing (SAST) is performed regularly with remediation of critical/high issues before release. Development follows secure SDLC aligned with OWASP practices."
+    },
+    {
+      "keywords": ["dmz", "internet facing", "public"],
+      "answer": "No internet-facing components are required. Standard deployments do not require DMZ placement."
+    }
+  ]
+}

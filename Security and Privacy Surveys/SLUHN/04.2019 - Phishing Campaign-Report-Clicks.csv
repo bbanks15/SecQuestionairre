@@ -1,0 +1,319 @@
+"email","ip","event","timestamp","saTimestamp","useragent"
+"joanne.fullerton@perigen.com",,"processed","1970-01-18T23:45:02.703Z","2019-04-03T14:48:05.152Z",
+"igor.konov@perigen.com",,"processed","1970-01-18T23:45:02.703Z","2019-04-03T14:48:05.151Z",
+"petros.moularogeorgos@perigen.com",,"processed","1970-01-18T23:45:02.703Z","2019-04-03T14:48:05.152Z",
+"sheila.miller@perigen.com",,"processed","1970-01-18T23:45:02.703Z","2019-04-03T14:48:05.151Z",
+"tanya.hawthorne@perigen.com",,"processed","1970-01-18T23:45:02.703Z","2019-04-03T14:48:05.152Z",
+"will.raab@perigen.com",,"processed","1970-01-18T23:45:02.703Z","2019-04-03T15:05:05.378Z",
+"elly.lloyd@perigen.com",,"processed","1970-01-18T23:45:02.703Z","2019-04-03T15:05:06.038Z",
+"terry.colvert@perigen.com",,"processed","1970-01-18T23:45:02.703Z","2019-04-03T15:05:06.038Z",
+"william.gavalier@perigen.com",,"processed","1970-01-18T23:45:02.703Z","2019-04-03T15:05:06.039Z",
+"allan.kyburz@perigen.com",,"processed","1970-01-18T23:45:02.703Z","2019-04-03T15:05:06.038Z",
+"terry.colvert@perigen.com",,"processed","1970-01-18T23:45:02.703Z","2019-04-03T15:29:23.089Z",
+"allan.kyburz@perigen.com",,"processed","1970-01-18T23:45:02.703Z","2019-04-03T15:29:23.089Z",
+"william.gavalier@perigen.com",,"processed","1970-01-18T23:45:02.703Z","2019-04-03T15:29:23.089Z",
+"elly.lloyd@perigen.com",,"processed","1970-01-18T23:45:02.703Z","2019-04-03T15:29:23.088Z",
+"laurie.sacchetto@perigen.com",,"processed","1970-01-18T23:46:19.204Z","2019-04-04T12:00:06.682Z",
+"gennady.godkin@perigen.com",,"processed","1970-01-18T23:46:19.204Z","2019-04-04T12:00:06.680Z",
+"systemmonitor@perigen.com",,"processed","1970-01-18T23:46:19.204Z","2019-04-04T12:00:06.682Z",
+"michelle.flowers@perigen.com",,"processed","1970-01-18T23:46:19.204Z","2019-04-04T12:00:09.124Z",
+"alexander.veisas@perigen.com",,"processed","1970-01-18T23:46:19.204Z","2019-04-04T12:00:09.124Z",
+"rimma.nirman@perigen.com",,"processed","1970-01-18T23:46:19.204Z","2019-04-04T12:00:09.125Z",
+"bob.pierson@perigen.com",,"processed","1970-01-18T23:46:19.205Z","2019-04-04T12:00:09.125Z",
+"drew.narayan@perigen.com",,"processed","1970-01-18T23:46:19.204Z","2019-04-04T12:02:10.909Z",
+"chad.gahm@perigen.com",,"processed","1970-01-18T23:46:19.205Z","2019-04-04T12:02:10.912Z",
+"mary.rogala@perigen.com",,"processed","1970-01-18T23:46:19.205Z","2019-04-04T12:02:11.307Z",
+"michelle.flowers@perigen.com",,"processed","1970-01-18T23:46:19.204Z","2019-04-04T12:02:12.123Z",
+"rimma.nirman@perigen.com",,"processed","1970-01-18T23:46:19.204Z","2019-04-04T12:02:12.124Z",
+"bob.pierson@perigen.com",,"processed","1970-01-18T23:46:19.205Z","2019-04-04T12:02:12.142Z",
+"alexander.veisas@perigen.com",,"processed","1970-01-18T23:46:19.204Z","2019-04-04T12:02:12.123Z",
+"igor.konov@perigen.com","212.179.1.82","click","1970-01-18T23:46:23.927Z","2019-04-04T13:19:18.765Z","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134"
+"michelle.flowers@perigen.com","167.89.85.54","delivered","1970-01-18T23:46:24.034Z","2019-04-04T13:21:02.381Z",
+"igor.konov@perigen.com","167.89.85.54","delivered","1970-01-18T23:46:23.868Z","2019-04-04T13:23:56.404Z",
+"igor.konov@perigen.com","167.89.85.54","delivered","1970-01-18T23:46:23.868Z","2019-04-04T13:34:03.745Z",
+"elly.lloyd@perigen.com","167.89.85.54","delivered","1970-01-18T23:46:25.959Z","2019-04-04T13:55:42.847Z",
+"elly.lloyd@perigen.com","99.58.163.105","open","1970-01-18T23:46:26.482Z","2019-04-04T14:01:54.987Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; Tablet PC 2.0; Zoom 3.6.0; Microsoft Outlook 16.0.10730; Microsoft Outlook 16.0.10730; ms-office; MSOffice 16)"
+"elly.lloyd@perigen.com","99.58.163.105","open","1970-01-18T23:46:26.482Z","2019-04-04T14:01:55.538Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; Tablet PC 2.0; Zoom 3.6.0; Microsoft Outlook 16.0.10730; Microsoft Outlook 16.0.10730; ms-office; MSOffice 16)"
+"systemmonitor@perigen.com","167.89.85.54","delivered","1970-01-18T23:46:27.233Z","2019-04-04T14:24:01.077Z",
+"sheila.miller@perigen.com","167.89.85.54","delivered","1970-01-18T23:46:32.151Z","2019-04-04T15:36:13.124Z",
+"joanne.fullerton@perigen.com","167.89.85.54","delivered","1970-01-18T23:46:32.454Z","2019-04-04T15:44:56.621Z",
+"chad.gahm@perigen.com","167.89.85.54","delivered","1970-01-18T23:46:32.772Z","2019-04-04T15:48:25.395Z",
+"laurie.sacchetto@perigen.com","10.10.11.251","education_visit","2019-04-04T15:53:57.269Z","2019-04-04T15:53:57.276Z","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134"
+"laurie.sacchetto@perigen.com","24.240.23.93","click","1970-01-18T23:46:33.236Z","2019-04-04T15:54:28.715Z","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134"
+"laurie.sacchetto@perigen.com","10.10.12.86","education_visit","2019-04-04T15:55:23.744Z","2019-04-04T15:55:23.751Z","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134"
+"laurie.sacchetto@perigen.com","24.240.23.93","click","1970-01-18T23:46:33.323Z","2019-04-04T15:55:57.809Z","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134"
+"laurie.sacchetto@perigen.com","167.89.85.54","delivered","1970-01-18T23:46:32.539Z","2019-04-04T16:03:21.795Z",
+"joanne.fullerton@perigen.com","144.121.47.34","open","1970-01-18T23:46:33.843Z","2019-04-04T16:04:34.010Z","Outlook-iOS/709.1830007.prod.iphone (3.17.0)"
+"joanne.fullerton@perigen.com","144.121.47.34","open","1970-01-18T23:46:33.905Z","2019-04-04T16:05:36.379Z","Outlook-iOS/709.1830007.prod.iphone (3.17.0)"
+"joanne.fullerton@perigen.com","144.121.47.34","open","1970-01-18T23:46:33.938Z","2019-04-04T16:06:09.030Z","Outlook-iOS/709.1830007.prod.iphone (3.17.0)"
+"joanne.fullerton@perigen.com","144.121.47.34","open","1970-01-18T23:46:33.937Z","2019-04-04T16:06:09.219Z","Outlook-iOS/709.1830007.prod.iphone (3.17.0)"
+"joanne.fullerton@perigen.com","144.121.47.34","open","1970-01-18T23:46:33.937Z","2019-04-04T16:06:10.896Z","Outlook-iOS/709.1830007.prod.iphone (3.17.0)"
+"gennady.godkin@perigen.com","167.89.85.54","delivered","1970-01-18T23:46:34.564Z","2019-04-04T16:20:21.651Z",
+"will.raab@perigen.com","167.89.85.54","delivered","1970-01-18T23:46:36.756Z","2019-04-04T17:10:45.952Z",
+"petros.moularogeorgos@perigen.com","167.89.85.54","delivered","1970-01-18T23:46:38.659Z","2019-04-04T17:45:02.057Z",
+"alexander.veisas@perigen.com","167.89.85.54","delivered","1970-01-18T23:46:39.211Z","2019-04-04T18:10:44.038Z",
+"terry.colvert@perigen.com","167.89.85.54","delivered","1970-01-18T23:46:40.236Z","2019-04-04T18:34:55.997Z",
+"tanya.hawthorne@perigen.com","99.58.163.105","open","1970-01-18T23:46:46.779Z","2019-04-04T19:40:13.724Z","Mozilla/5.0 (Linux; Android 8.1.0; moto z3 Build/ODX28.66-18-6-2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/73.0.3683.90 Mobile Safari/537.36"
+"tanya.hawthorne@perigen.com","167.89.85.54","delivered","1970-01-18T23:46:45.858Z","2019-04-04T20:01:44.894Z",
+"rimma.nirman@perigen.com","167.89.85.54","delivered","1970-01-18T23:46:46.699Z","2019-04-04T20:07:53.694Z",
+"chad.gahm@perigen.com","10.10.12.86","education_visit","2019-04-04T20:36:16.765Z","2019-04-04T20:36:16.772Z","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
+"chad.gahm@perigen.com","64.151.2.5","click","1970-01-18T23:46:50.175Z","2019-04-04T20:36:46.871Z","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
+"drew.narayan@perigen.com","167.89.85.54","delivered","1970-01-18T23:46:48.684Z","2019-04-04T20:44:24.383Z",
+"bob.pierson@perigen.com","167.89.85.54","delivered","1970-01-18T23:46:48.732Z","2019-04-04T20:44:24.680Z",
+"allan.kyburz@perigen.com","167.89.85.54","delivered","1970-01-18T23:46:49.785Z","2019-04-04T20:50:23.400Z",
+"mary.rogala@perigen.com","167.89.85.54","delivered","1970-01-18T23:46:50.970Z","2019-04-04T20:57:21.748Z",
+"william.gavalier@perigen.com","167.89.85.54","delivered","1970-01-18T23:46:50.256Z","2019-04-04T21:10:41.514Z",
+"allan.kyburz@perigen.com","50.95.229.95","open","1970-01-18T23:46:52.514Z","2019-04-04T21:15:46.272Z","Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/16D57"
+"allan.kyburz@perigen.com","10.10.11.251","education_visit","2019-04-04T21:18:02.390Z","2019-04-04T21:18:02.405Z","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
+"allan.kyburz@perigen.com","50.95.229.59","click","1970-01-18T23:46:52.681Z","2019-04-04T21:18:34.478Z","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
+"william.gavalier@perigen.com","24.211.234.130","open","1970-01-18T23:46:53.768Z","2019-04-04T21:36:39.436Z","Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/16D57"
+"allan.kyburz@perigen.com","50.95.229.59","open","1970-01-18T23:46:56.660Z","2019-04-04T22:24:51.870Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; Win64; x64; Trident/7.0; .NET4.0C; .NET4.0E; Tablet PC 2.0; Microsoft Outlook 16.0.10730; Microsoft Outlook 16.0.10730; ms-office; MSOffice 16)"
+"allan.kyburz@perigen.com","50.95.229.59","open","1970-01-18T23:46:56.660Z","2019-04-04T22:24:52.602Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; Win64; x64; Trident/7.0; .NET4.0C; .NET4.0E; Tablet PC 2.0; Microsoft Outlook 16.0.10730; Microsoft Outlook 16.0.10730; ms-office; MSOffice 16)"
+"william.gavalier@perigen.com","10.10.12.86","education_visit","2019-04-05T11:43:53.585Z","2019-04-05T11:43:53.590Z","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
+"william.gavalier@perigen.com","99.58.163.105","click","1970-01-18T23:47:44.633Z","2019-04-05T11:44:27.722Z","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
+"william.gavalier@perigen.com","10.10.11.251","education_visit","2019-04-05T11:48:24.188Z","2019-04-05T11:48:24.193Z","Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)"
+"william.gavalier@perigen.com","10.10.11.251","education_visit","2019-04-05T11:48:35.810Z","2019-04-05T11:48:35.816Z","Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko"
+"william.gavalier@perigen.com","10.10.11.251","education_visit","2019-04-05T11:48:36.953Z","2019-04-05T11:48:36.959Z","Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)"
+"william.gavalier@perigen.com","65.154.226.101","click","1970-01-18T23:47:44.903Z","2019-04-05T11:48:57.638Z","Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)"
+"william.gavalier@perigen.com","65.154.226.101","click","1970-01-18T23:47:44.915Z","2019-04-05T11:49:09.589Z","Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko"
+"william.gavalier@perigen.com","65.154.226.101","click","1970-01-18T23:47:44.916Z","2019-04-05T11:49:10.341Z","Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)"
+"eyal.yaron@perigen.com",,"processed","1970-01-18T23:47:45.601Z","2019-04-05T12:00:02.463Z",
+"mike.espy@perigen.com",,"processed","1970-01-18T23:47:45.600Z","2019-04-05T12:00:02.461Z",
+"adi.zmiri@perigen.com",,"processed","1970-01-18T23:47:45.601Z","2019-04-05T12:00:02.462Z",
+"fahima.munir@perigen.com",,"processed","1970-01-18T23:47:45.601Z","2019-04-05T12:00:08.609Z",
+"balaji.nunna@perigen.com",,"processed","1970-01-18T23:47:45.601Z","2019-04-05T12:00:08.611Z",
+"tamala.elbert@perigen.com",,"processed","1970-01-18T23:47:45.601Z","2019-04-05T12:00:08.609Z",
+"banou.balakrishnan@perigen.com",,"processed","1970-01-18T23:47:45.601Z","2019-04-05T12:00:08.612Z",
+"faye.mizrahi@perigen.com",,"processed","1970-01-18T23:47:45.601Z","2019-04-05T12:00:56.175Z",
+"cate.chace@perigen.com",,"processed","1970-01-18T23:47:45.601Z","2019-04-05T12:00:56.176Z",
+"dave.west@perigen.com",,"processed","1970-01-18T23:47:45.601Z","2019-04-05T12:00:56.177Z",
+"tanya.hawthorne@perigen.com","174.99.5.42","open","1970-01-18T23:47:48.886Z","2019-04-05T12:55:21.033Z","Outlook-iOS/709.1830007.prod.iphone (3.17.0)"
+"adi.zmiri@perigen.com","167.89.85.54","delivered","1970-01-18T23:47:51.644Z","2019-04-05T13:40:54.779Z",
+"mike.espy@perigen.com","167.89.85.54","delivered","1970-01-18T23:47:51.542Z","2019-04-05T13:46:36.882Z",
+"mike.espy@perigen.com","68.47.255.113","open","1970-01-18T23:47:55.004Z","2019-04-05T14:37:15.053Z","Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/16D57"
+"eyal.yaron@perigen.com","167.89.85.54","delivered","1970-01-18T23:47:56.050Z","2019-04-05T14:54:13.151Z",
+"fahima.munir@perigen.com","167.89.85.54","delivered","1970-01-18T23:48:02.275Z","2019-04-05T16:37:59.269Z",
+"tamala.elbert@perigen.com","167.89.85.54","delivered","1970-01-18T23:48:03.033Z","2019-04-05T17:10:01.176Z",
+"cate.chace@perigen.com","167.89.85.54","delivered","1970-01-18T23:48:06.574Z","2019-04-05T18:02:29.662Z",
+"banou.balakrishnan@perigen.com","167.89.85.54","delivered","1970-01-18T23:48:09.704Z","2019-04-05T18:44:31.457Z",
+"dave.west@perigen.com","167.89.85.54","delivered","1970-01-18T23:48:09.787Z","2019-04-05T18:52:46.742Z",
+"faye.mizrahi@perigen.com","167.89.85.54","delivered","1970-01-18T23:48:10.108Z","2019-04-05T18:52:48.368Z",
+"faye.mizrahi@perigen.com","167.89.85.54","delivered","1970-01-18T23:48:10.108Z","2019-04-05T18:56:51.258Z",
+"banou.balakrishnan@perigen.com","99.58.163.105","open","1970-01-18T23:48:10.697Z","2019-04-05T18:58:49.662Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; Zoom 3.6.0; wbx 1.0.0; Microsoft Outlook 16.0.10730; Microsoft Outlook 16.0.10730; ms-office; MSOffice 16)"
+"banou.balakrishnan@perigen.com","99.58.163.105","open","1970-01-18T23:48:10.697Z","2019-04-05T18:58:50.555Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; Zoom 3.6.0; wbx 1.0.0; Microsoft Outlook 16.0.10730; Microsoft Outlook 16.0.10730; ms-office; MSOffice 16)"
+"banou.balakrishnan@perigen.com","99.58.163.105","open","1970-01-18T23:48:11.774Z","2019-04-05T19:16:49.486Z","Mozilla/4.0 (compatible; ms-office; MSOffice 16)"
+"banou.balakrishnan@perigen.com","99.58.163.105","open","1970-01-18T23:48:14.884Z","2019-04-05T20:08:35.455Z","Mozilla/4.0 (compatible; ms-office; MSOffice 16)"
+"banou.balakrishnan@perigen.com","99.58.163.105","open","1970-01-18T23:48:14.884Z","2019-04-05T20:08:36.204Z","Mozilla/4.0 (compatible; ms-office; MSOffice 16)"
+"banou.balakrishnan@perigen.com","10.10.12.86","education_visit","2019-04-05T20:27:08.899Z","2019-04-05T20:27:08.909Z","Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)"
+"banou.balakrishnan@perigen.com","10.10.11.251","education_visit","2019-04-05T20:27:17.843Z","2019-04-05T20:27:17.851Z","Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)"
+"banou.balakrishnan@perigen.com","10.10.12.86","education_visit","2019-04-05T20:27:23.690Z","2019-04-05T20:27:23.698Z","Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko"
+"banou.balakrishnan@perigen.com","70.42.131.106","click","1970-01-18T23:48:16.028Z","2019-04-05T20:27:42.076Z","Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)"
+"banou.balakrishnan@perigen.com","70.42.131.106","click","1970-01-18T23:48:16.037Z","2019-04-05T20:27:50.465Z","Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)"
+"banou.balakrishnan@perigen.com","70.42.131.106","click","1970-01-18T23:48:16.043Z","2019-04-05T20:27:55.045Z","Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko"
+"balaji.nunna@perigen.com","167.89.85.54","delivered","1970-01-18T23:48:16.615Z","2019-04-05T20:38:16.286Z",
+"balaji.nunna@perigen.com","166.137.248.91","open","1970-01-18T23:48:17.696Z","2019-04-05T20:55:29.295Z","Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/16D57"
+"faye.mizrahi@perigen.com","174.206.7.120","open","1970-01-18T23:48:17.983Z","2019-04-05T21:00:16.103Z","Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/16D57"
+"banou.balakrishnan@perigen.com","24.200.109.30","open","1970-01-18T23:48:19.135Z","2019-04-05T21:19:28.311Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; wbx 1.0.0; Zoom 3.6.0; Microsoft Outlook 16.0.10730; Microsoft Outlook 16.0.10730; ms-office; MSOffice 16)"
+"banou.balakrishnan@perigen.com","24.200.109.30","open","1970-01-18T23:48:19.169Z","2019-04-05T21:20:03.353Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; wbx 1.0.0; Zoom 3.6.0; Microsoft Outlook 16.0.10730; Microsoft Outlook 16.0.10730; ms-office; MSOffice 16)"
+"banou.balakrishnan@perigen.com","24.200.109.30","open","1970-01-18T23:48:19.169Z","2019-04-05T21:20:03.437Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; wbx 1.0.0; Zoom 3.6.0; Microsoft Outlook 16.0.10730; Microsoft Outlook 16.0.10730; ms-office; MSOffice 16)"
+"faye.mizrahi@perigen.com","174.206.7.120","open","1970-01-18T23:48:20.873Z","2019-04-05T21:48:28.818Z","Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/16D57"
+"anitha.gundam@perigen.com",,"processed","1970-01-18T23:49:12.000Z","2019-04-06T12:00:03.332Z",
+"zach.schooler@perigen.com",,"processed","1970-01-18T23:49:12.001Z","2019-04-06T12:00:03.333Z",
+"derek.casey@perigen.com",,"processed","1970-01-18T23:49:12.001Z","2019-04-06T12:00:43.198Z",
+"david.levy@perigen.com",,"processed","1970-01-18T23:49:12.001Z","2019-04-06T12:00:43.198Z",
+"matthew.sappern@perigen.com",,"processed","1970-01-18T23:49:12.001Z","2019-04-06T12:00:43.199Z",
+"natan.blanks@perigen.com",,"processed","1970-01-18T23:49:12.001Z","2019-04-06T12:00:43.499Z",
+"andrew.krieman@perigen.com",,"processed","1970-01-18T23:49:12.001Z","2019-04-06T12:00:43.499Z",
+"jeremy.kraut@perigen.com",,"processed","1970-01-18T23:49:12.001Z","2019-04-06T12:04:06.002Z",
+"aaron.teel@perigen.com",,"processed","1970-01-18T23:49:12.001Z","2019-04-06T12:04:06.002Z",
+"niveditha.nalamada@perigen.com",,"processed","1970-01-18T23:49:12.001Z","2019-04-06T12:04:06.002Z",
+"anitha.gundam@perigen.com","167.89.85.54","delivered","1970-01-18T23:49:12.785Z","2019-04-06T12:13:13.636Z",
+"matthew.sappern@perigen.com","167.89.85.54","delivered","1970-01-18T23:49:17.072Z","2019-04-06T13:26:38.561Z",
+"zach.schooler@perigen.com","167.89.85.54","delivered","1970-01-18T23:49:19.610Z","2019-04-06T14:08:34.585Z",
+"zach.schooler@perigen.com","73.105.13.64","open","1970-01-18T23:49:19.862Z","2019-04-06T14:11:37.745Z","Outlook-iOS/709.1830007.prod.iphone (3.17.0)"
+"niveditha.nalamada@perigen.com","167.89.85.54","delivered","1970-01-18T23:49:20.345Z","2019-04-06T14:19:10.404Z",
+"david.levy@perigen.com","167.89.85.54","delivered","1970-01-18T23:49:20.458Z","2019-04-06T14:21:08.831Z",
+"andrew.krieman@perigen.com","167.89.85.54","delivered","1970-01-18T23:49:21.815Z","2019-04-06T14:43:42.258Z",
+"david.levy@perigen.com","82.81.133.57","open","1970-01-18T23:49:21.807Z","2019-04-06T14:44:00.824Z","Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/16D57"
+"natan.blanks@perigen.com","167.89.85.54","delivered","1970-01-18T23:49:40.325Z","2019-04-06T19:52:12.435Z",
+"aaron.teel@perigen.com","167.89.85.54","delivered","1970-01-18T23:49:40.427Z","2019-04-06T19:53:49.848Z",
+"jeremy.kraut@perigen.com","167.89.85.54","delivered","1970-01-18T23:49:42.364Z","2019-04-06T20:26:28.689Z",
+"derek.casey@perigen.com","167.89.85.54","delivered","1970-01-18T23:49:44.041Z","2019-04-06T20:56:04.121Z",
+"natan.blanks@perigen.com","109.64.35.247","open","1970-01-18T23:50:03.519Z","2019-04-07T02:19:09.312Z","Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/16D57"
+"william.gavalier@perigen.com","10.10.11.251","education_visit","2019-04-07T06:25:09.151Z","2019-04-07T06:25:09.157Z","Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)"
+"banou.balakrishnan@perigen.com","10.10.12.86","education_visit","2019-04-07T06:25:17.787Z","2019-04-07T06:25:17.800Z","Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)"
+"william.gavalier@perigen.com","70.42.131.189","click","1970-01-18T23:50:18.308Z","2019-04-07T06:25:38.873Z","Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)"
+"banou.balakrishnan@perigen.com","70.42.131.189","click","1970-01-18T23:50:18.317Z","2019-04-07T06:25:50.828Z","Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)"
+"sharon.resnick@perigen.com",,"processed","1970-01-18T23:50:38.401Z","2019-04-07T12:00:03.045Z",
+"lisa.steele@perigen.com",,"processed","1970-01-18T23:50:38.400Z","2019-04-07T12:00:08.161Z",
+"michael.rexrode@perigen.com",,"processed","1970-01-18T23:50:38.400Z","2019-04-07T12:00:08.160Z",
+"guy.twena@perigen.com",,"processed","1970-01-18T23:50:38.400Z","2019-04-07T12:00:08.161Z",
+"rebecca.millard@perigen.com",,"processed","1970-01-18T23:50:38.401Z","2019-04-07T12:00:08.162Z",
+"derek.nachimow@perigen.com",,"processed","1970-01-18T23:50:38.401Z","2019-04-07T12:00:08.162Z",
+"lisa.hill@perigen.com",,"processed","1970-01-18T23:50:38.401Z","2019-04-07T12:00:08.162Z",
+"itay.ginzburg@perigen.com",,"processed","1970-01-18T23:50:38.400Z","2019-04-07T12:00:08.161Z",
+"idris.salahuddin@perigen.com",,"processed","1970-01-18T23:50:38.400Z","2019-04-07T12:00:09.898Z",
+"debbi.glossop@perigen.com",,"processed","1970-01-18T23:50:38.400Z","2019-04-07T12:00:09.897Z",
+"rebecca.millard@perigen.com","167.89.85.54","delivered","1970-01-18T23:50:38.863Z","2019-04-07T12:07:48.019Z",
+"itay.ginzburg@perigen.com","167.89.85.54","delivered","1970-01-18T23:50:40.870Z","2019-04-07T12:41:18.382Z",
+"debbi.glossop@perigen.com","167.89.85.54","delivered","1970-01-18T23:50:46.497Z","2019-04-07T14:14:59.456Z",
+"lisa.steele@perigen.com","167.89.85.54","delivered","1970-01-18T23:50:46.499Z","2019-04-07T14:15:05.177Z",
+"derek.nachimow@perigen.com","167.89.85.54","delivered","1970-01-18T23:50:47.360Z","2019-04-07T14:33:08.986Z",
+"michael.rexrode@perigen.com","167.89.85.54","delivered","1970-01-18T23:50:49.290Z","2019-04-07T15:01:38.612Z",
+"sharon.resnick@perigen.com","167.89.85.54","delivered","1970-01-18T23:50:50.758Z","2019-04-07T15:26:05.457Z",
+"debbi.glossop@perigen.com","75.177.128.218","open","1970-01-18T23:50:51.001Z","2019-04-07T15:30:33.362Z","Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
+"lisa.hill@perigen.com","167.89.85.54","delivered","1970-01-18T23:51:00.789Z","2019-04-07T18:13:17.773Z",
+"idris.salahuddin@perigen.com","167.89.85.54","delivered","1970-01-18T23:51:01.805Z","2019-04-07T18:30:10.053Z",
+"idris.salahuddin@perigen.com","167.89.85.54","delivered","1970-01-18T23:51:01.805Z","2019-04-07T18:32:10.376Z",
+"idris.salahuddin@perigen.com","107.15.145.128","open","1970-01-18T23:51:05.672Z","2019-04-07T19:35:05.259Z","Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/16D57"
+"guy.twena@perigen.com","167.89.85.54","delivered","1970-01-18T23:51:06.133Z","2019-04-07T19:42:17.983Z",
+"banou.balakrishnan@perigen.com","10.10.11.251","education_visit","2019-04-08T07:21:20.842Z","2019-04-08T07:21:20.848Z","Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36"
+"banou.balakrishnan@perigen.com","10.10.12.86","education_visit","2019-04-08T07:21:41.379Z","2019-04-08T07:21:41.388Z","Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/71.0.3578.80 Safari/537.36"
+"banou.balakrishnan@perigen.com","65.154.226.126","click","1970-01-18T23:51:48.080Z","2019-04-08T07:21:54.999Z","Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36"
+"banou.balakrishnan@perigen.com","65.154.226.126","click","1970-01-18T23:51:48.088Z","2019-04-08T07:22:02.357Z","Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/71.0.3578.80 Safari/537.36"
+"tom.garite@perigen.com",,"processed","1970-01-18T23:52:04.800Z","2019-04-08T12:00:02.526Z",
+"julie.roseland@perigen.com",,"processed","1970-01-18T23:52:04.800Z","2019-04-08T12:00:02.526Z",
+"brian.bishop@perigen.com",,"processed","1970-01-18T23:52:04.800Z","2019-04-08T12:00:02.528Z",
+"tonya.burwell@perigen.com",,"processed","1970-01-18T23:52:04.800Z","2019-04-08T12:00:02.526Z",
+"philip.warrick@perigen.com",,"processed","1970-01-18T23:52:04.801Z","2019-04-08T12:00:02.529Z",
+"alyssa.berk@perigen.com",,"processed","1970-01-18T23:52:04.800Z","2019-04-08T12:00:09.993Z",
+"yoni.elkaras@perigen.com",,"processed","1970-01-18T23:52:04.801Z","2019-04-08T12:00:09.995Z",
+"dean.simpson@perigen.com",,"processed","1970-01-18T23:52:04.800Z","2019-04-08T12:00:09.987Z",
+"daleep.bhatia@perigen.com",,"processed","1970-01-18T23:52:04.800Z","2019-04-08T12:02:31.682Z",
+"guy.nachumy@perigen.com",,"processed","1970-01-18T23:52:04.800Z","2019-04-08T12:02:31.681Z",
+"tom.garite@perigen.com","167.89.85.54","delivered","1970-01-18T23:52:05.569Z","2019-04-08T12:12:54.749Z",
+"yoni.elkaras@perigen.com","167.89.85.54","delivered","1970-01-18T23:52:06.829Z","2019-04-08T12:33:59.678Z",
+"julie.roseland@perigen.com","167.89.85.54","delivered","1970-01-18T23:52:07.083Z","2019-04-08T12:38:12.571Z",
+"alyssa.berk@perigen.com","167.89.85.54","delivered","1970-01-18T23:52:07.854Z","2019-04-08T12:50:58.946Z",
+"alyssa.berk@perigen.com","10.10.11.251","education_visit","2019-04-08T13:43:30.893Z","2019-04-08T13:43:30.900Z","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
+"alyssa.berk@perigen.com","212.179.1.82","click","1970-01-18T23:52:11.010Z","2019-04-08T13:44:03.419Z","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
+"guy.nachumy@perigen.com","167.89.85.54","delivered","1970-01-18T23:52:11.304Z","2019-04-08T13:48:28.142Z",
+"michael.rexrode@perigen.com","66.65.97.144","open","1970-01-18T23:52:11.705Z","2019-04-08T13:55:37.281Z","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko)"
+"adi.zmiri@perigen.com","66.65.97.144","open","1970-01-18T23:52:13.623Z","2019-04-08T14:27:35.133Z","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko)"
+"adi.zmiri@perigen.com","66.65.97.144","open","1970-01-18T23:52:13.625Z","2019-04-08T14:27:38.082Z","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko)"
+"julie.roseland@perigen.com","10.10.12.86","education_visit","2019-04-08T14:30:45.384Z","2019-04-08T14:30:45.391Z","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299"
+"julie.roseland@perigen.com","10.10.12.86","education_visit","2019-04-08T14:31:07.631Z","2019-04-08T14:31:07.640Z","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299"
+"julie.roseland@perigen.com","172.74.118.164","click","1970-01-18T23:52:13.844Z","2019-04-08T14:31:16.068Z","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299"
+"julie.roseland@perigen.com","172.74.118.164","click","1970-01-18T23:52:13.867Z","2019-04-08T14:31:37.793Z","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299"
+"philip.warrick@perigen.com","167.89.85.54","delivered","1970-01-18T23:52:14.489Z","2019-04-08T14:41:32.566Z",
+"daleep.bhatia@perigen.com","167.89.85.54","delivered","1970-01-18T23:52:16.892Z","2019-04-08T15:21:37.273Z",
+"lisa.steele@perigen.com","10.10.12.86","education_visit","2019-04-08T15:25:43.113Z","2019-04-08T15:25:43.119Z","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
+"lisa.steele@perigen.com","73.44.127.2","click","1970-01-18T23:52:17.142Z","2019-04-08T15:26:15.295Z","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
+"brian.bishop@perigen.com","167.89.85.54","delivered","1970-01-18T23:52:18.932Z","2019-04-08T15:55:43.678Z",
+"tonya.burwell@perigen.com","167.89.85.54","delivered","1970-01-18T23:52:23.374Z","2019-04-08T17:09:45.025Z",
+"dean.simpson@perigen.com","167.89.85.54","delivered","1970-01-18T23:52:24.574Z","2019-04-08T17:29:39.724Z",
+"dean.simpson@perigen.com","10.10.12.86","education_visit","2019-04-08T17:37:13.941Z","2019-04-08T17:37:13.948Z","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
+"dean.simpson@perigen.com","99.58.163.105","click","1970-01-18T23:52:25.033Z","2019-04-08T17:37:47.769Z","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
+"debbi.glossop@perigen.com","99.58.163.105","open","1970-01-18T23:52:27.098Z","2019-04-08T18:12:10.286Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; wbx 1.0.0; Zoom 3.6.0; Microsoft Outlook 16.0.10730; Microsoft Outlook 16.0.10730; ms-office; MSOffice 16)"
+"debbi.glossop@perigen.com","99.58.163.105","open","1970-01-18T23:52:27.098Z","2019-04-08T18:12:13.481Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; wbx 1.0.0; Zoom 3.6.0; Microsoft Outlook 16.0.10730; Microsoft Outlook 16.0.10730; ms-office; MSOffice 16)"
+"daleep.bhatia@perigen.com","70.35.178.79","open","1970-01-18T23:52:44.150Z","2019-04-08T22:56:20.944Z","Outlook-iOS/709.1889125.prod.iphone (3.17.1)"
+"daleep.bhatia@perigen.com","70.35.178.79","open","1970-01-18T23:52:44.146Z","2019-04-08T22:56:21.618Z","Outlook-iOS/709.1889125.prod.iphone (3.17.1)"
+"daleep.bhatia@perigen.com","70.35.178.79","open","1970-01-18T23:52:44.146Z","2019-04-08T22:57:09.262Z","Outlook-iOS/709.1889125.prod.iphone (3.17.1)"
+"lexy.garrett@perigen.com",,"processed","1970-01-18T23:53:31.200Z","2019-04-09T12:00:04.270Z",
+"alex.braidwood@perigen.com",,"processed","1970-01-18T23:53:31.201Z","2019-04-09T12:00:10.316Z",
+"alana.mcgolrick@perigen.com",,"processed","1970-01-18T23:53:31.201Z","2019-04-09T12:00:11.564Z",
+"service.requests@perigen.com",,"processed","1970-01-18T23:53:31.200Z","2019-04-09T12:00:11.563Z",
+"andrew.messick@perigen.com",,"processed","1970-01-18T23:53:31.200Z","2019-04-09T12:00:11.564Z",
+"omer.ben-yoseph@perigen.com",,"processed","1970-01-18T23:53:31.201Z","2019-04-09T12:00:11.565Z",
+"deborah.mcneal@perigen.com",,"processed","1970-01-18T23:53:31.200Z","2019-04-09T12:03:09.911Z",
+"israel.bookkeeping@perigen.com",,"processed","1970-01-18T23:53:31.201Z","2019-04-09T12:03:09.912Z",
+"emily.hamilton@perigen.com",,"processed","1970-01-18T23:53:31.201Z","2019-04-09T12:03:09.912Z",
+"patrick.odonnell@perigen.com",,"processed","1970-01-18T23:53:31.201Z","2019-04-09T12:03:09.911Z",
+"deborah.mcneal@perigen.com","167.89.85.54","delivered","1970-01-18T23:53:35.741Z","2019-04-09T13:15:54.570Z",
+"alana.mcgolrick@perigen.com","167.89.85.54","delivered","1970-01-18T23:53:38.224Z","2019-04-09T13:57:12.098Z",
+"alana.mcgolrick@perigen.com","68.5.197.32","open","1970-01-18T23:53:38.576Z","2019-04-09T14:03:27.622Z","Outlook-iOS/704.1650691.prod.iphone (3.12.0)"
+"service.requests@perigen.com","167.89.85.54","delivered","1970-01-18T23:53:41.741Z","2019-04-09T14:58:54.283Z",
+"deborah.mcneal@perigen.com","10.10.12.86","education_visit","2019-04-09T15:05:59.721Z","2019-04-09T15:05:59.729Z","Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko"
+"deborah.mcneal@perigen.com","99.58.163.105","open","1970-01-18T23:53:42.337Z","2019-04-09T15:06:10.894Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E; wbx 1.0.0; Microsoft Outlook 16.0.10730; ms-office; MSOffice 16)"
+"deborah.mcneal@perigen.com","99.58.163.105","open","1970-01-18T23:53:42.337Z","2019-04-09T15:06:12.696Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E; wbx 1.0.0; Microsoft Outlook 16.0.10730; ms-office; MSOffice 16)"
+"deborah.mcneal@perigen.com","99.58.163.105","click","1970-01-18T23:53:42.359Z","2019-04-09T15:06:33.980Z","Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko"
+"alex.braidwood@perigen.com","167.89.85.54","delivered","1970-01-18T23:53:45.879Z","2019-04-09T16:04:50.520Z",
+"israel.bookkeeping@perigen.com","167.89.85.54","delivered","1970-01-18T23:53:45.961Z","2019-04-09T16:06:15.833Z",
+"andrew.messick@perigen.com","167.89.85.54","delivered","1970-01-18T23:53:46.933Z","2019-04-09T16:22:21.085Z",
+"patrick.odonnell@perigen.com","167.89.85.54","delivered","1970-01-18T23:53:47.198Z","2019-04-09T16:26:42.510Z",
+"emily.hamilton@perigen.com","167.89.85.54","delivered","1970-01-18T23:53:47.506Z","2019-04-09T16:35:06.716Z",
+"omer.ben-yoseph@perigen.com","167.89.85.54","delivered","1970-01-18T23:53:48.068Z","2019-04-09T16:41:13.155Z",
+"andrew.messick@perigen.com","99.58.163.105","open","1970-01-18T23:53:50.882Z","2019-04-09T17:28:37.311Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; Tablet PC 2.0; Zoom 3.6.0; wbx 1.0.0; Microsoft Outlook 16.0.10730; ms-office; MSOffice 16)"
+"andrew.messick@perigen.com","99.58.163.105","open","1970-01-18T23:53:51.037Z","2019-04-09T17:31:08.932Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; Tablet PC 2.0; Zoom 3.6.0; wbx 1.0.0; Microsoft Outlook 16.0.10730; ms-office; MSOffice 16)"
+"alana.mcgolrick@perigen.com","172.58.22.245","open","1970-01-18T23:53:51.404Z","2019-04-09T17:37:19.535Z","Outlook-iOS/704.1650691.prod.iphone (3.12.0)"
+"andrew.messick@perigen.com","99.58.163.105","open","1970-01-18T23:53:51.776Z","2019-04-09T17:43:30.678Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; Tablet PC 2.0; Zoom 3.6.0; wbx 1.0.0; Microsoft Outlook 16.0.10730; ms-office; MSOffice 16)"
+"andrew.messick@perigen.com","99.58.163.105","open","1970-01-18T23:53:52.870Z","2019-04-09T18:01:45.085Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; Tablet PC 2.0; Zoom 3.6.0; wbx 1.0.0; Microsoft Outlook 16.0.10730; ms-office; MSOffice 16)"
+"lexy.garrett@perigen.com","167.89.85.54","delivered","1970-01-18T23:53:56.517Z","2019-04-09T19:02:05.486Z",
+"andrew.messick@perigen.com","99.58.163.105","open","1970-01-18T23:53:57.878Z","2019-04-09T19:25:08.606Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; Tablet PC 2.0; Zoom 3.6.0; wbx 1.0.0; Microsoft Outlook 16.0.10730; ms-office; MSOffice 16)"
+"andrew.messick@perigen.com","99.58.163.105","open","1970-01-18T23:53:58.426Z","2019-04-09T19:34:18.607Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; Tablet PC 2.0; Zoom 3.6.0; wbx 1.0.0; Microsoft Outlook 16.0.10730; ms-office; MSOffice 16)"
+"andrew.messick@perigen.com","99.58.163.105","open","1970-01-18T23:54:04.303Z","2019-04-09T21:12:14.200Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; Tablet PC 2.0; Zoom 3.6.0; wbx 1.0.0; Microsoft Outlook 16.0.10730; ms-office; MSOffice 16)"
+"andrew.messick@perigen.com","99.58.163.105","open","1970-01-18T23:54:06.197Z","2019-04-09T21:43:47.801Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; Tablet PC 2.0; Zoom 3.6.0; wbx 1.0.0; Microsoft Outlook 16.0.10730; ms-office; MSOffice 16)"
+"evangelia.evdaimon@perigen.com",,"processed","1970-01-18T23:54:57.600Z","2019-04-10T12:00:04.679Z",
+"hank.schultz@perigen.com",,"processed","1970-01-18T23:54:57.600Z","2019-04-10T12:00:04.679Z",
+"karen.kolega@perigen.com",,"processed","1970-01-18T23:54:57.600Z","2019-04-10T12:00:04.679Z",
+"trent.green@perigen.com",,"processed","1970-01-18T23:54:57.600Z","2019-04-10T12:00:10.411Z",
+"denise.queffelec@perigen.com",,"processed","1970-01-18T23:54:57.600Z","2019-04-10T12:00:10.407Z",
+"jack.bhuthimethee@perigen.com",,"processed","1970-01-18T23:54:57.600Z","2019-04-10T12:00:10.410Z",
+"sonny.nguyen@perigen.com",,"processed","1970-01-18T23:54:57.600Z","2019-04-10T12:00:12.620Z",
+"neta.tal@perigen.com",,"processed","1970-01-18T23:54:57.600Z","2019-04-10T12:00:46.058Z",
+"sophia.isakhanov@perigen.com",,"processed","1970-01-18T23:54:57.600Z","2019-04-10T12:00:46.057Z",
+"oleg.malinowski@perigen.com",,"processed","1970-01-18T23:54:57.600Z","2019-04-10T12:00:46.058Z",
+"neta.tal@perigen.com","167.89.85.54","delivered","1970-01-18T23:54:59.213Z","2019-04-10T12:27:01.355Z",
+"andrew.messick@perigen.com","99.58.163.105","open","1970-01-18T23:55:00.005Z","2019-04-10T12:40:39.199Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; Tablet PC 2.0; Zoom 3.6.0; wbx 1.0.0; Microsoft Outlook 16.0.10730; ms-office; MSOffice 16)"
+"andrew.messick@perigen.com","99.58.163.105","open","1970-01-18T23:55:00.035Z","2019-04-10T12:41:08.460Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; Tablet PC 2.0; Zoom 3.6.0; wbx 1.0.0; Microsoft Outlook 16.0.10730; ms-office; MSOffice 16)"
+"andrew.messick@perigen.com","99.58.163.105","open","1970-01-18T23:55:00.035Z","2019-04-10T12:41:09.952Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; Tablet PC 2.0; Zoom 3.6.0; wbx 1.0.0; Microsoft Outlook 16.0.10730; ms-office; MSOffice 16)"
+"jack.bhuthimethee@perigen.com","167.89.85.54","delivered","1970-01-18T23:55:00.021Z","2019-04-10T12:44:01.072Z",
+"karen.kolega@perigen.com","167.89.85.54","delivered","1970-01-18T23:55:00.036Z","2019-04-10T12:44:03.178Z",
+"andrew.messick@perigen.com","99.58.163.105","open","1970-01-18T23:55:00.868Z","2019-04-10T12:55:01.239Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; Tablet PC 2.0; Zoom 3.6.0; wbx 1.0.0; Microsoft Outlook 16.0.10730; ms-office; MSOffice 16)"
+"andrew.messick@perigen.com","99.58.163.105","open","1970-01-18T23:55:00.884Z","2019-04-10T12:55:16.500Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; Tablet PC 2.0; Zoom 3.6.0; wbx 1.0.0; Microsoft Outlook 16.0.10730; ms-office; MSOffice 16)"
+"andrew.messick@perigen.com","99.58.163.105","open","1970-01-18T23:55:00.884Z","2019-04-10T12:55:17.048Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; Tablet PC 2.0; Zoom 3.6.0; wbx 1.0.0; Microsoft Outlook 16.0.10730; ms-office; MSOffice 16)"
+"andrew.messick@perigen.com","99.58.163.105","open","1970-01-18T23:55:00.903Z","2019-04-10T12:55:34.288Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; Tablet PC 2.0; Zoom 3.6.0; wbx 1.0.0; Microsoft Outlook 16.0.10730; ms-office; MSOffice 16)"
+"denise.queffelec@perigen.com","167.89.85.54","delivered","1970-01-18T23:55:01.065Z","2019-04-10T13:04:25.321Z",
+"guy.nachumy@perigen.com","212.179.1.82","open","1970-01-18T23:55:05.690Z","2019-04-10T14:15:20.838Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; wbx 1.0.0; Microsoft Outlook 16.0.10730; ms-office; MSOffice 16)"
+"guy.nachumy@perigen.com","212.179.1.82","open","1970-01-18T23:55:05.690Z","2019-04-10T14:15:25.357Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; wbx 1.0.0; Microsoft Outlook 16.0.10730; ms-office; MSOffice 16)"
+"guy.nachumy@perigen.com","66.159.36.34","open","1970-01-18T23:55:06.855Z","2019-04-10T14:34:50.342Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; MS-RTC LM 8; InfoPath.3; .NET4.0C; .NET4.0E; Zoom 3.6.0; wbx 1.0.0; Microsoft Outlook 15.0.5125; Microsoft Outlook 15.0.5125; ms-office; MSOffice 15)"
+"guy.nachumy@perigen.com","66.159.36.34","open","1970-01-18T23:55:06.868Z","2019-04-10T14:34:59.250Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; MS-RTC LM 8; InfoPath.3; .NET4.0C; .NET4.0E; Zoom 3.6.0; wbx 1.0.0; Microsoft Outlook 15.0.5125; Microsoft Outlook 15.0.5125; ms-office; MSOffice 15)"
+"guy.nachumy@perigen.com","66.159.36.34","open","1970-01-18T23:55:06.868Z","2019-04-10T14:35:00.827Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; MS-RTC LM 8; InfoPath.3; .NET4.0C; .NET4.0E; Zoom 3.6.0; wbx 1.0.0; Microsoft Outlook 15.0.5125; Microsoft Outlook 15.0.5125; ms-office; MSOffice 15)"
+"guy.nachumy@perigen.com","212.179.1.82","open","1970-01-18T23:55:07.282Z","2019-04-10T14:41:56.150Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; wbx 1.0.0; Microsoft Outlook 16.0.10730; ms-office; MSOffice 16)"
+"guy.nachumy@perigen.com","212.179.1.82","open","1970-01-18T23:55:07.311Z","2019-04-10T14:42:23.409Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; wbx 1.0.0; Microsoft Outlook 16.0.10730; ms-office; MSOffice 16)"
+"guy.nachumy@perigen.com","212.179.1.82","open","1970-01-18T23:55:07.312Z","2019-04-10T14:42:26.471Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; wbx 1.0.0; Microsoft Outlook 16.0.10730; ms-office; MSOffice 16)"
+"sonny.nguyen@perigen.com","167.89.85.54","delivered","1970-01-18T23:55:11.692Z","2019-04-10T15:59:04.513Z",
+"andrew.messick@perigen.com","99.58.163.105","open","1970-01-18T23:55:14.532Z","2019-04-10T16:42:44.954Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; Tablet PC 2.0; Zoom 3.6.0; wbx 1.0.0; Microsoft Outlook 16.0.10730; ms-office; MSOffice 16)"
+"andrew.messick@perigen.com","99.58.163.105","open","1970-01-18T23:55:14.537Z","2019-04-10T16:42:49.785Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; Tablet PC 2.0; Zoom 3.6.0; wbx 1.0.0; Microsoft Outlook 16.0.10730; ms-office; MSOffice 16)"
+"trent.green@perigen.com","167.89.85.54","delivered","1970-01-18T23:55:15.907Z","2019-04-10T17:05:19.939Z",
+"evangelia.evdaimon@perigen.com","167.89.85.54","delivered","1970-01-18T23:55:17.668Z","2019-04-10T17:34:34.157Z",
+"oleg.malinowski@perigen.com","167.89.85.54","delivered","1970-01-18T23:55:24.383Z","2019-04-10T19:26:31.237Z",
+"oleg.malinowski@perigen.com","37.142.173.254","open","1970-01-18T23:55:28.278Z","2019-04-10T20:31:49.730Z","Mozilla/5.0 (Linux; Android 9; Pixel 3 XL Build/PQ2A.190405.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/73.0.3683.90 Mobile Safari/537.36"
+"sophia.isakhanov@perigen.com","167.89.85.54","delivered","1970-01-18T23:55:28.349Z","2019-04-10T20:32:35.265Z",
+"hank.schultz@perigen.com","167.89.85.54","delivered","1970-01-18T23:55:28.473Z","2019-04-10T20:34:44.663Z",
+"karen.kolega@perigen.com","10.10.11.251","education_visit","2019-04-10T22:11:32.192Z","2019-04-10T22:11:32.198Z","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+"karen.kolega@perigen.com","35.136.0.177","click","1970-01-18T23:55:34.291Z","2019-04-10T22:12:03.821Z","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+"guy.nachumy@perigen.com","24.200.109.30","open","1970-01-18T23:55:59.159Z","2019-04-11T05:06:34.679Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; wbx 1.0.0; Zoom 3.6.0; Microsoft Outlook 16.0.10730; Microsoft Outlook 16.0.10730; ms-office; MSOffice 16)"
+"cristian.iolu@perigen.com",,"processed","1970-01-18T23:56:24.000Z","2019-04-11T12:00:01.638Z",
+"carole.brailsford@perigen.com",,"processed","1970-01-18T23:56:24.000Z","2019-04-11T12:00:01.639Z",
+"tim.gemma@perigen.com",,"processed","1970-01-18T23:56:24.000Z","2019-04-11T12:00:01.638Z",
+"bruno.bendavid@perigen.com",,"processed","1970-01-18T23:56:24.000Z","2019-04-11T12:00:01.640Z",
+"darcy.dinneny@perigen.com",,"processed","1970-01-18T23:56:24.000Z","2019-04-11T12:00:08.711Z",
+"eldad.naveh@perigen.com",,"processed","1970-01-18T23:56:24.000Z","2019-04-11T12:00:08.712Z",
+"simi.nitzan@perigen.com",,"processed","1970-01-18T23:56:24.000Z","2019-04-11T12:00:08.712Z",
+"tim.gemma@perigen.com","167.89.85.54","delivered","1970-01-18T23:56:31.704Z","2019-04-11T14:08:32.610Z",
+"eldad.naveh@perigen.com","167.89.85.54","delivered","1970-01-18T23:56:37.630Z","2019-04-11T15:47:20.714Z",
+"bruno.bendavid@perigen.com","24.200.109.30","open","1970-01-18T23:56:41.470Z","2019-04-11T16:51:43.984Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; wbx 1.0.0; Zoom 3.6.0; Microsoft Outlook 16.0.10730; Microsoft Outlook 16.0.10730; ms-office; MSOffice 16)"
+"bruno.bendavid@perigen.com","24.200.109.30","open","1970-01-18T23:56:41.470Z","2019-04-11T16:51:44.332Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; wbx 1.0.0; Zoom 3.6.0; Microsoft Outlook 16.0.10730; Microsoft Outlook 16.0.10730; ms-office; MSOffice 16)"
+"bruno.bendavid@perigen.com","167.89.85.54","delivered","1970-01-18T23:56:41.360Z","2019-04-11T16:52:16.572Z",
+"bruno.bendavid@perigen.com","208.185.180.3","open","1970-01-18T23:56:41.740Z","2019-04-11T16:56:11.842Z","Mozilla/4.0 (compatible; ms-office; MSOffice 16)"
+"bruno.bendavid@perigen.com","208.185.180.3","open","1970-01-18T23:56:41.740Z","2019-04-11T16:56:14.686Z","Mozilla/4.0 (compatible; ms-office; MSOffice 16)"
+"bruno.bendavid@perigen.com","24.200.109.30","open","1970-01-18T23:56:41.990Z","2019-04-11T17:00:20.624Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; wbx 1.0.0; Zoom 3.6.0; Microsoft Outlook 16.0.10730; Microsoft Outlook 16.0.10730; ms-office; MSOffice 16)"
+"bruno.bendavid@perigen.com","24.200.109.30","open","1970-01-18T23:56:41.990Z","2019-04-11T17:00:21.441Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; wbx 1.0.0; Zoom 3.6.0; Microsoft Outlook 16.0.10730; Microsoft Outlook 16.0.10730; ms-office; MSOffice 16)"
+"cristian.iolu@perigen.com","167.89.85.54","delivered","1970-01-18T23:56:44.408Z","2019-04-11T17:40:14.945Z",
+"simi.nitzan@perigen.com","167.89.85.54","delivered","1970-01-18T23:56:44.576Z","2019-04-11T17:42:58.038Z",
+"cristian.iolu@perigen.com","188.64.206.50","open","1970-01-18T23:56:49.125Z","2019-04-11T18:59:18.278Z","Mozilla/5.0 (Linux; Android 9; Mi A1 Build/PKQ1.180917.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/73.0.3683.90 Mobile Safari/537.36"
+"carole.brailsford@perigen.com","167.89.85.54","delivered","1970-01-18T23:56:54.149Z","2019-04-11T20:24:05.636Z",
+"darcy.dinneny@perigen.com","167.89.85.54","delivered","1970-01-18T23:56:56.331Z","2019-04-11T20:59:00.462Z",
+"darcy.dinneny@perigen.com","172.56.5.114","open","1970-01-18T23:56:59.903Z","2019-04-11T21:58:56.215Z","Mozilla/5.0 (Linux; Android 9; SM-N960U Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/73.0.3683.90 Mobile Safari/537.36"
+"darcy.dinneny@perigen.com","10.10.12.86","education_visit","2019-04-12T01:02:37.665Z","2019-04-12T01:02:37.671Z","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+"darcy.dinneny@perigen.com","24.142.203.252","click","1970-01-18T23:57:10.956Z","2019-04-12T01:03:11.124Z","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+"darcy.dinneny@perigen.com","24.142.203.252","open","1970-01-18T23:57:11.340Z","2019-04-12T01:09:30.943Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; wbx 1.0.0; Zoom 3.6.0; Microsoft Outlook 16.0.10730; Microsoft Outlook 16.0.10730; ms-office; MSOffice 16)"
+"darcy.dinneny@perigen.com","24.142.203.252","open","1970-01-18T23:57:11.340Z","2019-04-12T01:09:33.260Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; wbx 1.0.0; Zoom 3.6.0; Microsoft Outlook 16.0.10730; Microsoft Outlook 16.0.10730; ms-office; MSOffice 16)"
+"simi.nitzan@perigen.com","110.170.132.2","open","1970-01-18T23:57:12.583Z","2019-04-12T01:30:18.720Z","Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/16C101"
+"simi.nitzan@perigen.com","110.170.132.2","open","1970-01-18T23:57:12.602Z","2019-04-12T01:30:35.744Z","Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko)"
+"simi.nitzan@perigen.com","110.170.132.2","open","1970-01-18T23:57:12.615Z","2019-04-12T01:30:59.361Z","Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko)"
+"simi.nitzan@perigen.com","213.57.215.105","open","1970-01-18T23:57:26.607Z","2019-04-12T05:23:57.759Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; Microsoft Outlook 16.0.10730; ms-office; MSOffice 16)"
+"simi.nitzan@perigen.com","213.57.215.105","open","1970-01-18T23:57:26.803Z","2019-04-12T05:27:14.647Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; Microsoft Outlook 16.0.10730; ms-office; MSOffice 16)"
+"simi.nitzan@perigen.com","213.57.215.105","open","1970-01-18T23:57:26.803Z","2019-04-12T05:27:14.647Z","Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; Microsoft Outlook 16.0.10730; ms-office; MSOffice 16)"
+"simi.nitzan@perigen.com","2.53.52.62","open","1970-01-18T23:57:35.766Z","2019-04-12T07:56:39.153Z","Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/16C101"
